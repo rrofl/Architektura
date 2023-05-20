@@ -1,0 +1,5 @@
+1. Jak dziala clock wizarding, czyli digital clock management?
+2. Jaka jest roznica miedzy licznikiem binarnym, a dzielnikiem czestotliwosci?
+3. Omowic zasade dzialania prostego wyswietlacza LED na przykladzie dwoch segmentow.
+4. Finish state machine - zastosowanie i przyklady skonczonych maszyn stanow
+5. Kodery i dekodery - zastosowanie, przyklad praktyczny (np. binary to dec, kod greya)
